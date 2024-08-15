@@ -10,6 +10,20 @@ Players can choose to bet on either the fish or the fishermen, but the winners a
 
 ## Game Play
 * Main Menu
+
 ![gameMainMenu](https://github.com/user-attachments/assets/ac201dc1-0312-444f-951b-3c47a31cbfab)
 * Play Screen
+
 ![gameScreen](https://github.com/user-attachments/assets/81f5928c-e0cd-444f-b747-dd5ecffa8003)
+
+* Fish Win
+
+![Fishwin](https://github.com/user-attachments/assets/e179837f-dbc4-48d5-900f-b017f89cb747)
+
+* Fishermen Win
+
+![Boatwin](https://github.com/user-attachments/assets/ceb2c7c4-bc94-44eb-b2f3-008535f46f11)
+
+* Tie
+
+ ![Tie](https://github.com/user-attachments/assets/cd3a70a4-f7ac-403a-bc23-aeeb1a37a6c3)
